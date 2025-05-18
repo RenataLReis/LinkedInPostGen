@@ -1,0 +1,3 @@
+pip -q install google-genai
+# Instala Framework de agentes do Google 
+pip install -q google-adk
